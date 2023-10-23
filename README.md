@@ -17,4 +17,4 @@ I learn a lot of stuff related to data sciecne skill. This bootcamp
 - Essential Python for Data Analyst
 - Dashboard
   
-You can find me on linkin : https://www.linkedin.com/in/titirat-ittinonmongkol-607076114/
+You can find me on linkedin : https://www.linkedin.com/in/titirat-ittinonmongkol-607076114/
